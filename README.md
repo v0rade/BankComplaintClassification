@@ -1,5 +1,15 @@
 # 🏦 Bank Complaint Classification
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-1.7-orange)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+# 🏦 Bank Complaint Classification
+
 Final Project Artificial Intelligence
 
 Universitas Cakrawala
@@ -73,6 +83,11 @@ UAS_AI/
 ├── src/
 │ ├── train.py
 │ └── predict.py
+│
+├── images
+│    ├── home.png
+│    ├── predict.png
+│    └── chat.png
 │
 └── notebooks/
 └── BankComplaint.ipynb
@@ -158,10 +173,26 @@ Accuracy
 
 ## Author
 
-Nama :
+Nama : Geoffta Handiyan AKwila
 
-NIM :
+NIM : 24110300057
 
 Universitas Cakrawala
 
 2026
+
+## Home
+
+![Home](images/home.png)
+
+---
+
+## Prediction
+
+![Prediction](images/prediction.png)
+
+---
+
+## Chart
+
+![Chart](images/chart.png)
